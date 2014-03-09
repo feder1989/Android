@@ -1,4 +1,4 @@
-package com.example.thenewboston;
+package com.federicotrejo.quetanaburridoestas;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -17,7 +17,7 @@ public class Splash extends Activity {
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				} finally {
-					Intent openStartingPoint = new Intent("com.example.thenewboston.STARTINGPOINT");
+					Intent openStartingPoint = new Intent("com.federicotrejo.quetanaburridoestas.QUETANABURRIDOMAIN");
 					startActivity(openStartingPoint);
 				}
 			}
@@ -30,7 +30,6 @@ public class Splash extends Activity {
 		super.onPause();
 		finish();
 	}
-	
-	
 
+	
 }

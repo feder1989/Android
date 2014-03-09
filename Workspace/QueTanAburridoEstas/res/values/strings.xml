@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Que tan aburrido estas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msj_principal">Presiona el boton mientras estes aburrido</string>
+    <string name="nivel">Nivel de aburrimiento:</string>
+    <string name="btn_aburrido">¡Aburrido!</string>
+
+</resources>
