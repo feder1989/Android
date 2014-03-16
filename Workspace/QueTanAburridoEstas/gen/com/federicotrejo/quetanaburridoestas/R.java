@@ -33,7 +33,8 @@ public final class R {
     }
     public static final class layout {
         public static final int activity_que_tan_aburrido_main=0x7f030000;
-        public static final int splash=0x7f030001;
+        public static final int que_tan_aburrido_main=0x7f030001;
+        public static final int splash=0x7f030002;
     }
     public static final class menu {
         public static final int que_tan_aburrido_main=0x7f070000;
