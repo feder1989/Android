@@ -7,5 +7,6 @@
     <string name="msj_principal">Presiona el boton mientras estes aburrido</string>
     <string name="nivel">Nivel de aburrimiento:</string>
     <string name="btn_aburrido">¡Aburrido!</string>
+    <string name="btn_email">Enviar Email</string>
 
 </resources>

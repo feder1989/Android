@@ -2,6 +2,7 @@ package com.federicotrejo.quetanaburridoestas;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -11,17 +12,18 @@ import android.widget.TextView;
 public class QueTanAburridoMain extends Activity {
 	
 	int nivel;
-	Button btnAburrido;
+	Button btnAburrido, btnEmail;
 	TextView tvNivel;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_que_tan_aburrido_main);
+		setContentView(R.layout.que_tan_aburrido_main);
 		
 		nivel = 0;
 		btnAburrido = (Button) findViewById(R.id.btnAburrido);
 		tvNivel = (TextView) findViewById(R.id.tvNivel);
+		btnEmail = (Button) findViewById(R.id.btnEmail);
 		
 		btnAburrido.setOnClickListener(new OnClickListener() {
 			
@@ -29,6 +31,15 @@ public class QueTanAburridoMain extends Activity {
 			public void onClick(View v) {
 				nivel++;
 				tvNivel.setText("" + nivel);				
+			}
+		});
+		
+		btnEmail.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intentEmail = new Intent("com.federicotrejo.quetanaburridoestas.EMAIL");
+				startActivity(intentEmail);
 			}
 		});
 	}
