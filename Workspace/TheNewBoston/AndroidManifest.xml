@@ -63,6 +63,22 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.thenewboston.Data"
+            android:label="Data" >
+            <intent-filter>
+                <action android:name="com.example.thenewboston.DATA" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.thenewboston.OpenedClass"
+            android:label="Opened Class" >
+            <intent-filter>
+                <action android:name="com.example.thenewboston.OPENEDCLASS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
