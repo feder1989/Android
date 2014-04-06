@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    version="2.0"
+    xml:base="http://www.nasa.gov/" >
+
+    <channel>
+
+        <title>
+NASA Image of the Day
+        </title>
+
+        <description>
+The latest NASA &quot;Image of the Day&quot; image.
+        </description>
+
+        <link>
+http://www.nasa.gov/
+        </link>
+
+        <atom:link
+            href="http://www.nasa.gov/rss/dyn/image_of_the_day.rss"
+            rel="self" />
+
+        <language>
+en-us
+        </language>
+
+        <managingEditor>
+yvette.smith-1@nasa.gov
+        </managingEditor>
+
+        <webMaster>
+brian.dunbar@nasa.gov
+        </webMaster>
+
+        <docs>
+http://blogs.law.harvard.edu/tech/rss
+        </docs>
+
+        <item>
+
+            <title>
+NASA Hubble Team Finds Monster &#039;El Gordo&#039; Galaxy
+            </title>
+
+            <link>
+http://www.nasa.gov/content/nasa-hubble-team-finds-monster-el-gordo-galaxy
+            </link>
+
+            <description>
+NASA&#039;s Hubble Space Telescope has weighed the largest known galaxy cluster in the distant universe, catalogued as ACT-CL J0102-4915, and found it definitely lives up to its nickname -- El Gordo (Spanish for &quot;the fat one&quot;).
+By measuring how much the cluster&#039;s gravity warps images of galaxies in the distant background, a team of astronomers has calculated the cluster&#039;s mass to be as much as 3 million billion times the mass of our sun. Hubble data show the galaxy cluster, which is 9.7 billion light-years away from Earth, is roughly 43 percent more massive than earlier estimates.
+The team used Hubble to measure how strongly the mass of the cluster warped space. Hubble&#039;s high resolution allowed measurements of so-called &quot;weak lensing,&quot; where the cluster&#039;s immense gravity subtly distorts space like a funhouse mirror and warps images of background galaxies. The greater the warping, the more mass is locked up in the cluster.
+&gt; More information
+Image Credit: NASA/ESA
+            </description>
+
+            <enclosure
+                length="829202"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/14-096-el-gordo_0_0.jpg?itok=m5h8RXPO" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/nasa-hubble-team-finds-monster-el-gordo-galaxy
+            </guid>
+
+            <pubDate>
+Fri, 04 Apr 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Astronaut Karen Nyberg Inspires the Next Generation of Explorers
+            </title>
+
+            <link>
+http://www.nasa.gov/content/astronaut-karen-nyberg-inspires-the-next-generation-of-explorers
+            </link>
+
+            <description>
+Astronaut Karen Nyberg poses for a photograph with an enthusiastic NASA Social attendee following a presentation about her time living, working, and conducting research on the International Space Station. The NASA Social was held on Monday, March 24, 2014 at NASA Headquarters in Washington, D.C.
+Nyberg served as a flight engineer aboard the space station during Expeditions 36 and 37, from May to November 2013. In addition to her time on the orbiting outpost, Nyberg also flew aboard space shuttle Discovery during its STS-124 mission in 2008.
+Image Credit: NASA/Aubrey Gemignani
+            </description>
+
+            <enclosure
+                length="4063909"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13585678274_3b069a23e4_o.jpg?itok=adFLHsRO" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/astronaut-karen-nyberg-inspires-the-next-generation-of-explorers
+            </guid>
+
+            <pubDate>
+Thu, 03 Apr 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+James Webb Space Telescope&#039;s Near Infrared Spectrograph Installed
+            </title>
+
+            <link>
+http://www.nasa.gov/content/james-webb-space-telescopes-near-infrared-spectrograph-installed
+            </link>
+
+            <description>
+In March 2014, the James Webb Space Telescope&#039;s flight Near Infrared Spectrograph (NIRSpec) was installed into the instrument module. NIRSpec joins the flight Near Infrared Camera (NIRCam) Fine Guidance Sensor/ Near Infrared Imager and Slitless Spectrograph (FGS/NIRISS) and Mid-Infrared Instrument (MIRI) which are already integrated into the ISIM, making the instrument module complete.
+The James Webb Space Telescope is a large space telescope, optimized for infrared wavelengths. It is scheduled for launch later in this decade. Webb will find the first galaxies that formed in the early universe, connecting the Big Bang to our own Milky Way galaxy. Webb will peer through dusty clouds to see stars forming planetary systems, connecting the Milky Way to our own solar system. Webb&#039;s instruments will be designed to work primarily in the infrared range of the electromagnetic spectrum, with some capability in the visible range.
+&gt; Read more
+Image Credit: NASA/Chris Gunn
+            </description>
+
+            <enclosure
+                length="4741381"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13546442425_3177f4348c_o.jpg?itok=YkcpCRgb" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/james-webb-space-telescopes-near-infrared-spectrograph-installed
+            </guid>
+
+            <pubDate>
+Wed, 02 Apr 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Three Atmospheric &#039;Dragons&#039;: Low Pressure Areas Around the U.S.
+            </title>
+
+            <link>
+http://www.nasa.gov/content/three-atmospheric-dragons-low-pressure-areas-around-the-us
+            </link>
+
+            <description>
+There are three low pressure systems around the U.S. and they resemble dragons on satellite imagery. NOAA&#039;s GOES-13 and GOES-15 satellite image from March 31, 2014 shows the low pressure systems in the eastern Pacific Ocean, over the nation&#039;s Heartland, and in the eastern Atlantic Ocean. All three lows have the signature comma shape that make them appear to be curled up dragons.
+	
+	According to the National Weather Service, the low pressure area approaching the northwestern U.S. is expected to bring rainfall to the coast and areas of snow that stretch from western Washington state south toward the four corners region. The low in the middle of the country is located over Nebraska and dropping snow to the north and west of it. That same low is bringing rain from southern Minnesota south to eastern Texas. Meanwhile, the third low pressure system is bringing rain and snow to parts of New England.
+	
+	NOAA&#039;s GOES-East satellite sits in a fixed orbit in space capturing visible and infrared imagery of all weather over the eastern U.S. and Atlantic Ocean.
+	
+	The data to create this image was taken on March 31, 2014 at 17:45 UTC/1:45 p.m. EDT by NOAA&#039;s GOES-East or GOES-13 satellite and made into an image by NASA/NOAA&#039;s GOES Project at NASA&#039;s Goddard Space Flight Center in Greenbelt, Md.
+&gt; More information.
+Image Credit: NASA/Caption: Rob Gutro
+            </description>
+
+            <enclosure
+                length="1375006"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13545312904_fee2ab3d93_o.jpg?itok=n4E1V5SV" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/three-atmospheric-dragons-low-pressure-areas-around-the-us
+            </guid>
+
+            <pubDate>
+Tue, 01 Apr 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Wind Tunnel Testing a Full-Sized Aircraft Tail
+            </title>
+
+            <link>
+http://www.nasa.gov/content/wind-tunnel-testing-a-full-sized-aircraft-tail
+            </link>
+
+            <description>
+NASA recently tested a full-sized tail from a 757 commercial aircraft that was modified and equipped with tiny jets called &quot;sweeping jet actuators&quot; to blow air across the rudder surfaces.
+The test vertical tail is an actual 757 tail that came out of an aircraft bone yard in Arizona and was refurbished into a wind tunnel model.
+The tunnel hosted the 26-foot 757 tail for a series of tests of an innovative Active Flow Control system that one day might allow airplane builders to design smaller tails, which would reduce weight and drag, and help improve fuel efficiency. The “flow control” comes from the actuators, which are devices that essentially blow air in a sweeping motion along the span of the tail and manipulate that flow of air.
+The image was taken inside the National Full-Scale Aerodynamic Complex, a massive wind tunnel located at NASA’s Ames Research Center in Moffett, Ca. In the image, an engineer braces himself against the strong winds in the tunnel as he holds a wand emitting a stream of smoke that’s used to visualize “in flight” air flow across the tail.
+Actuator technology will be installed for flight tests on the tail of Boeing’s ecoDemonstrator program 757 flight test aircraft in early 2015 as part of an agreement with NASA.
+&gt; Read more: NASA Aces Delicate Operation with Aircraft Tail
+Image Credit: NASA/Dominic Hart
+            </description>
+
+            <enclosure
+                length="12680933"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/acd13-0172-131_0.jpg?itok=P8xuTJUE" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/wind-tunnel-testing-a-full-sized-aircraft-tail
+            </guid>
+
+            <pubDate>
+Mon, 31 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Shadow Portrait of NASA Rover Opportunity on Martian Slope
+            </title>
+
+            <link>
+http://www.nasa.gov/jpl/mer/shadow-portrait-pia17956
+            </link>
+
+            <description>
+NASA&#039;s Mars Exploration Rover Opportunity caught its own silhouette in this late-afternoon image taken by the rover&#039;s rear hazard avoidance camera. This camera is mounted low on the rover and has a wide-angle lens.
+The image was taken looking eastward shortly before sunset on the 3,609th Martian day, or sol, of Opportunity&#039;s work on Mars (March 20, 2014). The rover&#039;s shadow falls across a slope called the McClure-Beverlin Escarpment on the western rim of Endeavour Crater, where Opportunity is investigating rock layers for evidence about ancient environments.  The scene includes a glimpse into the distance across the 14-mile-wide (22-kilometer-wide) crater.
+Image Credit: NASA/JPL-Caltech
+            </description>
+
+            <enclosure
+                length="103012"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/pia17956.jpg?itok=jOLEw_p4" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/jpl/mer/shadow-portrait-pia17956
+            </guid>
+
+            <pubDate>
+Fri, 28 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+NASA’s Super Guppy Makes a Special Delivery
+            </title>
+
+            <link>
+http://www.nasa.gov/centers/marshall/multimedia/photos/2014/super-guppy-cryotank.html
+            </link>
+
+            <description>
+NASA’s Super Guppy, a wide-bodied cargo aircraft, landed at the Redstone Army Airfield near Huntsville, Ala. on March 26 with a special delivery: an innovative composite rocket fuel tank. The tank was manufactured at the Boeing Developmental Center in Tukwila, Wash. The tank will be unloaded from the Super Guppy, which has a hinged nose that opens and allows large cargos like the tank to be easily unloaded. After the tank is removed from the Super Guppy, it will be inspected and prepared for testing at NASA’s Marshall Space Flight Center in Huntsville, Ala. The composite tank project is part of the Game Changing Development Program and NASA&#039;s Space Technology Mission Directorate.
+Image credit: NASA/MSFC/Emmett Given
+› Alternate view #1
+	› Alternate view #2
+	› Flickr: Super Guppy and Cryotank
+            </description>
+
+            <enclosure
+                length="1955276"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/elg3077.jpg?itok=wa4LVjfX" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/centers/marshall/multimedia/photos/2014/super-guppy-cryotank.html
+            </guid>
+
+            <pubDate>
+Thu, 27 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Landslide and Barrier Lake Near Oso, Washington
+            </title>
+
+            <link>
+http://www.nasa.gov/content/landslide-and-barrier-lake-near-oso-washington
+            </link>
+
+            <description>
+On March 22, 2014, a rainfall-triggered landslide near Oso, Washington sent muddy debris spilling across the North Fork of the Stillaguamish River. The slide left an earthen dam that blocked the river, causing a barrier lake to form. The Operational Land Imager (OLI) on the Landsat 8 satellite acquired this image of landslide debris and the barrier lake on March 23, 2014.
+&gt; Read more and view annotated image
+Image Credit: NASA Earth Observatory image by Jesse Allen, using Landsat data from the U.S. Geological Survey
+	Caption: Adam Voiland
+            </description>
+
+            <enclosure
+                length="416164"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/oso_oli_2014082_lrg-1000.jpg?itok=SmivqE75" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/landslide-and-barrier-lake-near-oso-washington
+            </guid>
+
+            <pubDate>
+Wed, 26 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Expedition 39 Crew Launches Aboard the Soyuz TMA-12M Rocket
+            </title>
+
+            <link>
+http://www.nasa.gov/content/expedition-39-crew-launches-aboard-the-soyuz-tma-12m-rocket
+            </link>
+
+            <description>
+The Soyuz TMA-12M rocket launches from Baikonur Cosmodrome in Kazakhstan on  Wednesday, March 26, 2014 carrying Expedition 39 Soyuz Commander Alexander Skvortsov of the Russian Federal Space Agency, Roscosmos, Flight Engineer Steven Swanson of NASA, and Flight Engineer Oleg Artemyev of Roscosmos to the International Space Station.
+Image Credit: NASA/Joel Kowsky
+            </description>
+
+            <enclosure
+                length="1002939"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13414404843_01d575453b_o.jpg?itok=5WXocivU" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/expedition-39-crew-launches-aboard-the-soyuz-tma-12m-rocket
+            </guid>
+
+            <pubDate>
+Tue, 25 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+
+        <item>
+
+            <title>
+Expedition 39 Prepares for Today&#039;s Launch
+            </title>
+
+            <link>
+http://www.nasa.gov/content/expedition-39-prepares-for-todays-launch
+            </link>
+
+            <description>
+The gantry arms begin to close around the Soyuz TMA-12M spacecraft to secure the rocket at the launch pad on Sunday, March 23, 2014, at the Baikonur Cosmodrome in Kazakhstan. Launch of the Soyuz rocket is scheduled for 5:17 p.m. EDT, March 25 and will send Expedition 39 Soyuz Commander Alexander Skvortsov of the Russian Federal Space Agency, Roscosmos, Flight Engineer Steven Swanson of NASA, and Flight Engineer Oleg Artemyev of Roscosmos on a six-month mission aboard the International Space Station. 
+Image Credit: NASA/Joel Kowsky
+            </description>
+
+            <enclosure
+                length="1691370"
+                type="image/jpeg"
+                url="http://www.nasa.gov/sites/default/files/styles/946xvariable_height/public/13348922155_7cfb44c39d_o.jpg?itok=0_BnGPcE" />
+
+            <guid isPermaLink="false" >
+http://www.nasa.gov/content/expedition-39-prepares-for-todays-launch
+            </guid>
+
+            <pubDate>
+Tue, 25 Mar 2014 12:00:00 EDT
+            </pubDate>
+
+            <source url="http://www.nasa.gov/rss/dyn/image_of_the_day.rss" >
+NASA Image of the Day
+            </source>
+        </item>
+    </channel>
+
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nasa Daily Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_tittle_test">Decorating the Sky</string>
+    <string name="image_date_test">Mon, 27 Dec 2010</string>
+    <string name="image_description_test">NASA\'s Hubble Space Telescope has weighed the largest known galaxy cluster in the distant universe, catalogued as ACT-CL J0102-4915, and found it definitely lives up to its nickname El Gordo (Spanish for \'the fat one\').\nBy measuring how much the cluster\'s gravity warps images of galaxies in the distant background, a team of astronomers has calculated the cluster\'s mass to be as much as 3 million billion times the mass of our sun. Hubble data show the galaxy cluster, which is 9.7 billion light-years away from Earth, is roughly 43 percent more massive than earlier estimates.\nThe team used Hubble to measure how strongly the mass of the cluster warped space. Hubble\'s high resolution allowed measurements of so-called \'weak lensing\' where the cluster\'s immense gravity subtly distorts space like a funhouse mirror and warps images of background galaxies. The greater the warping, the more mass is locked up in the cluster.\nImage Credit: NASA/ESA</string>
+    <string name="image_content">Nasa Daily Image</string>
+
+</resources>
