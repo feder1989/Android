@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Charlie The Unicorn Sounds</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGlup">Glup, glup</string>
+    <string name="btnNooooFugu">Noooo Fugu</string>
+    <string name="btnPutABanana">Put a Banana...</string>
+    <string name="btnSparkle">Sparkle, sparkle</string>
+
+</resources>
