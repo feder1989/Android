@@ -9,27 +9,186 @@
         android:orientation="vertical" >
 
         <Button
+            android:id="@+id/btnBananaKing"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnBananaKing" />
+
+        <Button
+            android:id="@+id/btnBrurrr"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnBrurrr" />
+
+        <Button
+            android:id="@+id/btnCandyMountain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnCandyMountain" />
+
+        <Button
+            android:id="@+id/btnHeyCharlieWakeup"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnCharlieWhakeup" />
+
+        <Button
+            android:id="@+id/btnCharlieee"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnCharlieee" />
+
+        <Button
+            android:id="@+id/btnFishesLoveYou"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnFishesLoveYou" />
+
+        <Button
             android:id="@+id/btnGlup"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:background="@android:color/white"
             android:text="@string/btnGlup" />
 
-         <Button
+        <Button
+            android:id="@+id/btnGoCandyMountain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnGoingCandyMountain" />
+
+        <Button
+            android:id="@+id/btnInTheFuture"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnInTheFuture" />
+
+        <Button
+            android:id="@+id/btnLalala"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnLalala" />
+
+        <Button
+            android:id="@+id/btnLeopleuradon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnLeopleuradon" />
+
+        <Button
+            android:id="@+id/btnNarwhal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnNarwhal" />
+
+        <Button
+            android:id="@+id/btnNoooDarkness"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnNooooDarkness" />
+
+        <Button
             android:id="@+id/btnNoooFugu"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:background="@android:color/white"
             android:text="@string/btnNooooFugu" />
-          <Button
+
+        <Button
             android:id="@+id/btnPutABanana"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:background="@android:color/white"
             android:text="@string/btnPutABanana" />
-           <Button
+
+        <Button
+            android:id="@+id/btnRingRing"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnRingRing" />
+
+        <Button
+            android:id="@+id/btnShuggaShoe"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnShuggaShoe" />
+
+        <Button
+            android:id="@+id/btnShutUp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnShutUpUnbeliever" />
+
+        <Button
+            android:id="@+id/btnSneaky"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnSneaky" />
+
+        <Button
             android:id="@+id/btnSparkle"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:background="@android:color/white"
             android:text="@string/btnSparkle" />
+
+        <Button
+            android:id="@+id/btnSwimAway"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnSwimAway" />
+
+        <Button
+            android:id="@+id/btnChuuShoe"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnChuuShoe" />
+
+        <Button
+            android:id="@+id/btnAmulet"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnAmulet" />
+
+        <Button
+            android:id="@+id/btnBridge"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnBridge" />
+
+        <Button
+            android:id="@+id/btnWhale"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnWhale" />
+
+        <Button
+            android:id="@+id/btnZeta"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnZeta" />
     </LinearLayout>
-    
 
 </ScrollView>

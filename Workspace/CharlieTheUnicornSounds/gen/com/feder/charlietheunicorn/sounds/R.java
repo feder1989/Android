@@ -25,11 +25,33 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f090004;
-        public static final int btnGlup=0x7f090000;
-        public static final int btnNoooFugu=0x7f090001;
-        public static final int btnPutABanana=0x7f090002;
-        public static final int btnSparkle=0x7f090003;
+        public static final int action_settings=0x7f09001a;
+        public static final int btnAmulet=0x7f090016;
+        public static final int btnBananaKing=0x7f090000;
+        public static final int btnBridge=0x7f090017;
+        public static final int btnBrurrr=0x7f090001;
+        public static final int btnCandyMountain=0x7f090002;
+        public static final int btnCharlieee=0x7f090004;
+        public static final int btnChuuShoe=0x7f090015;
+        public static final int btnFishesLoveYou=0x7f090005;
+        public static final int btnGlup=0x7f090006;
+        public static final int btnGoCandyMountain=0x7f090007;
+        public static final int btnHeyCharlieWakeup=0x7f090003;
+        public static final int btnInTheFuture=0x7f090008;
+        public static final int btnLalala=0x7f090009;
+        public static final int btnLeopleuradon=0x7f09000a;
+        public static final int btnNarwhal=0x7f09000b;
+        public static final int btnNoooDarkness=0x7f09000c;
+        public static final int btnNoooFugu=0x7f09000d;
+        public static final int btnPutABanana=0x7f09000e;
+        public static final int btnRingRing=0x7f09000f;
+        public static final int btnShuggaShoe=0x7f090010;
+        public static final int btnShutUp=0x7f090011;
+        public static final int btnSneaky=0x7f090012;
+        public static final int btnSparkle=0x7f090013;
+        public static final int btnSwimAway=0x7f090014;
+        public static final int btnWhale=0x7f090018;
+        public static final int btnZeta=0x7f090019;
     }
     public static final class layout {
         public static final int list_sounds=0x7f030000;
@@ -39,18 +61,63 @@ public final class R {
         public static final int main=0x7f080000;
     }
     public static final class raw {
-        public static final int glup=0x7f040000;
-        public static final int nooo_fugu=0x7f040001;
-        public static final int put_a_banana=0x7f040002;
-        public static final int sparkle=0x7f040003;
+        public static final int brurrr=0x7f040000;
+        public static final int candy_mountain=0x7f040001;
+        public static final int charlieee=0x7f040002;
+        public static final int fishes_love_you=0x7f040003;
+        public static final int glup=0x7f040004;
+        public static final int go_candy_mountain=0x7f040005;
+        public static final int hey_charlie=0x7f040006;
+        public static final int hey_charlie_wakeup=0x7f040007;
+        public static final int in_the_future=0x7f040008;
+        public static final int la_la_la=0x7f040009;
+        public static final int leopleuradon=0x7f04000a;
+        public static final int narwhal=0x7f04000b;
+        public static final int nooo_darkness=0x7f04000c;
+        public static final int nooo_fugu=0x7f04000d;
+        public static final int put_a_banana=0x7f04000e;
+        public static final int ring_ring=0x7f04000f;
+        public static final int shugga_shugaa_shoe_shoe=0x7f040010;
+        public static final int shutup_unbeliever=0x7f040011;
+        public static final int sneaky=0x7f040012;
+        public static final int sparkle=0x7f040013;
+        public static final int swim_away=0x7f040014;
+        public static final int the_chu_chu_shoe=0x7f040015;
+        public static final int the_magic_amulet=0x7f040016;
+        public static final int the_magic_bridge=0x7f040017;
+        public static final int whale=0x7f040018;
+        public static final int youre_banana_king=0x7f040019;
+        public static final int zeta=0x7f04001a;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
+        public static final int btnAmulet=0x7f060012;
+        public static final int btnBananaKing=0x7f060014;
+        public static final int btnBridge=0x7f060013;
+        public static final int btnBrurrr=0x7f060006;
+        public static final int btnCandyMountain=0x7f060007;
+        public static final int btnCharlieWhakeup=0x7f06000a;
+        public static final int btnCharlieee=0x7f060008;
+        public static final int btnChuuShoe=0x7f060011;
+        public static final int btnFishesLoveYou=0x7f060015;
         public static final int btnGlup=0x7f060002;
+        public static final int btnGoingCandyMountain=0x7f060009;
+        public static final int btnInTheFuture=0x7f060016;
+        public static final int btnLalala=0x7f06000b;
+        public static final int btnLeopleuradon=0x7f06000c;
+        public static final int btnNarwhal=0x7f060017;
+        public static final int btnNooooDarkness=0x7f06000d;
         public static final int btnNooooFugu=0x7f060003;
         public static final int btnPutABanana=0x7f060004;
+        public static final int btnRingRing=0x7f060018;
+        public static final int btnShuggaShoe=0x7f06000e;
+        public static final int btnShutUpUnbeliever=0x7f06000f;
+        public static final int btnSneaky=0x7f060019;
         public static final int btnSparkle=0x7f060005;
+        public static final int btnSwimAway=0x7f060010;
+        public static final int btnWhale=0x7f06001a;
+        public static final int btnZeta=0x7f06001b;
     }
     public static final class style {
         /** 
