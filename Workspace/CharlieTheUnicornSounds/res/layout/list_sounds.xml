@@ -177,6 +177,12 @@
             android:text="@string/btnBridge" />
 
         <Button
+            android:id="@+id/btnDoor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:text="@string/btnDoor" />
+        <Button
             android:id="@+id/btnWhale"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"

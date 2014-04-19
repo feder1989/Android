@@ -28,6 +28,7 @@
     <string name="btnRingRing">Ring ring...</string>
     <string name="btnSneaky">Sneaky</string>
     <string name="btnWhale">Whale</string>
+    <string name="btnDoor">The Door</string>
     <string name="btnZeta">Zeta</string>
 
 </resources>

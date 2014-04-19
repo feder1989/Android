@@ -39,10 +39,11 @@ public class Data extends Activity implements OnClickListener {
 			String bread = sendET.getText().toString();
 			Bundle basket = new Bundle();
 			basket.putString("key", bread);
-			
+
 			Intent a;
 			try {
-//				a = new Intent(Data.this, Class.forName("com.example.thenewboston.OpenedClass"));
+				// a = new Intent(Data.this,
+				// Class.forName("com.example.thenewboston.OpenedClass"));
 				a = new Intent(Data.this, OpenedClass.class);
 				a.putExtras(basket);
 				startActivity(a);
@@ -52,7 +53,20 @@ public class Data extends Activity implements OnClickListener {
 			}
 			break;
 		case R.id.bSAFR:
+			Intent i = new Intent(Data.this, OpenedClass.class);
+			startActivityForResult(i, 0);
 			break;
+		}
+	}
+
+	@Override
+	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+		// TODO Auto-generated method stub
+		super.onActivityResult(requestCode, resultCode, data);
+		if (resultCode == RESULT_OK) {
+			Bundle basket = data.getExtras();
+			String s = basket.getString("answer");
+			gotAnswer.setText(s);
 		}
 	}
 

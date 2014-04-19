@@ -25,7 +25,7 @@ public final class R {
         public static final int ic_launcher=0x7f020001;
     }
     public static final class id {
-        public static final int action_settings=0x7f09001a;
+        public static final int action_settings=0x7f09001b;
         public static final int btnAmulet=0x7f090016;
         public static final int btnBananaKing=0x7f090000;
         public static final int btnBridge=0x7f090017;
@@ -33,6 +33,7 @@ public final class R {
         public static final int btnCandyMountain=0x7f090002;
         public static final int btnCharlieee=0x7f090004;
         public static final int btnChuuShoe=0x7f090015;
+        public static final int btnDoor=0x7f090018;
         public static final int btnFishesLoveYou=0x7f090005;
         public static final int btnGlup=0x7f090006;
         public static final int btnGoCandyMountain=0x7f090007;
@@ -50,8 +51,8 @@ public final class R {
         public static final int btnSneaky=0x7f090012;
         public static final int btnSparkle=0x7f090013;
         public static final int btnSwimAway=0x7f090014;
-        public static final int btnWhale=0x7f090018;
-        public static final int btnZeta=0x7f090019;
+        public static final int btnWhale=0x7f090019;
+        public static final int btnZeta=0x7f09001a;
     }
     public static final class layout {
         public static final int list_sounds=0x7f030000;
@@ -83,11 +84,12 @@ public final class R {
         public static final int sparkle=0x7f040013;
         public static final int swim_away=0x7f040014;
         public static final int the_chu_chu_shoe=0x7f040015;
-        public static final int the_magic_amulet=0x7f040016;
-        public static final int the_magic_bridge=0x7f040017;
-        public static final int whale=0x7f040018;
-        public static final int youre_banana_king=0x7f040019;
-        public static final int zeta=0x7f04001a;
+        public static final int the_door=0x7f040016;
+        public static final int the_magic_amulet=0x7f040017;
+        public static final int the_magic_bridge=0x7f040018;
+        public static final int whale=0x7f040019;
+        public static final int youre_banana_king=0x7f04001a;
+        public static final int zeta=0x7f04001b;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
@@ -100,6 +102,7 @@ public final class R {
         public static final int btnCharlieWhakeup=0x7f06000a;
         public static final int btnCharlieee=0x7f060008;
         public static final int btnChuuShoe=0x7f060011;
+        public static final int btnDoor=0x7f06001b;
         public static final int btnFishesLoveYou=0x7f060015;
         public static final int btnGlup=0x7f060002;
         public static final int btnGoingCandyMountain=0x7f060009;
@@ -117,7 +120,7 @@ public final class R {
         public static final int btnSparkle=0x7f060005;
         public static final int btnSwimAway=0x7f060010;
         public static final int btnWhale=0x7f06001a;
-        public static final int btnZeta=0x7f06001b;
+        public static final int btnZeta=0x7f06001c;
     }
     public static final class style {
         /** 

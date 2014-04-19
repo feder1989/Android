@@ -16,7 +16,7 @@ public class MenuBotones extends Activity implements OnClickListener {
 			btnPutABanana, btnSparkle, btnLalala, btnLeopleuradon,
 			btnNoooDarkness, btnShuggaShoe, btnShutup, btnSwimAway,
 			btnChuuShoe, btnAmulet, btnBridge, btnZeta, btnFishes, btnFuture,
-			btnNarwhal, btnRing, btnSneaky, btnWhale;
+			btnNarwhal, btnRing, btnSneaky, btnWhale, btnDoor;
 	MediaPlayer sonido;
 
 	@Override
@@ -51,6 +51,7 @@ public class MenuBotones extends Activity implements OnClickListener {
 		btnRing.setOnClickListener(this);
 		btnSneaky.setOnClickListener(this);
 		btnWhale.setOnClickListener(this);
+		btnDoor.setOnClickListener(this);
 	}
 
 	private void initializerWidgets() {
@@ -80,6 +81,7 @@ public class MenuBotones extends Activity implements OnClickListener {
 		btnRing = (Button) findViewById(R.id.btnRingRing);
 		btnSneaky = (Button) findViewById(R.id.btnSneaky);
 		btnWhale = (Button) findViewById(R.id.btnWhale);
+		btnDoor = (Button) findViewById(R.id.btnDoor);
 	}
 
 	@Override
@@ -179,6 +181,9 @@ public class MenuBotones extends Activity implements OnClickListener {
 			break;
 		case R.id.btnWhale:
 			sonido = MediaPlayer.create(MenuBotones.this, R.raw.whale);
+			break;
+		case R.id.btnDoor:
+			sonido = MediaPlayer.create(MenuBotones.this, R.raw.the_door);
 			break;
 		default:
 			sonido = null;
